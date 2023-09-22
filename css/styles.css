@@ -33,6 +33,7 @@ img {
 
 .column {
     display: inline-block;
+    justify-content: center;
 }
 
 input[type=text], select, textarea {
