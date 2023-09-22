@@ -29,6 +29,7 @@ h2 {
 
 img {
     max-width: 25%;
+    border: 5px solid black;
 }
 
 .column {
