@@ -32,7 +32,6 @@ img {
 }
 
 input[type=text], select, textarea {
-    width: 70%;
     padding: 12px;
     margin-top: 6px;
     margin-bottom: 16px;
