@@ -23,6 +23,10 @@ h2 {
     text-align: center;
 }
 
+.navbar {
+    display: inline-block;
+}
+
 .bio {
     text-align: center;
 }
