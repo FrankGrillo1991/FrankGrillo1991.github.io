@@ -65,6 +65,6 @@ textarea {
 
 @media (min-width: 320px) {
     .grid-container {
-        flex: 50%;
+        flex-direction: column;
     }   
 }
