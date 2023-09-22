@@ -66,7 +66,7 @@ textarea {
 @media (min-width: 320px) {
     .grid-item {
         display: grid;
-        grid-column: 1;
+        grid-template-columns: 100%;
     }
     
 }
