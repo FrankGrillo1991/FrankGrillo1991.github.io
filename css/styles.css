@@ -10,7 +10,7 @@ h1 {
 .grid-container {
     display: grid;
     justify-content: center;
-    grid-template-columns: auto auto;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr))
     grid-gap: 2rem;
     padding-left: 90px;
 }
@@ -33,7 +33,7 @@ ul li {
 }
 
 img {
-    max-width: 25%;
+    max-width: 100%;
     border: 5px solid black;
 }
 
@@ -61,10 +61,4 @@ input[type=submit] {
 
 textarea {
     margin: 5px;
-}
-
-@media (min-width: 320px) {
-    .grid-container {
-        flex-direction: column;
-    }   
 }
