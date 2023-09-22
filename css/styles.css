@@ -62,3 +62,14 @@ input[type=submit] {
 textarea {
     margin: 5px;
 }
+
+@media (min-width: 320px) {
+    .grid-container {
+        display: grid;
+        justify-content: center;
+        grid-template-columns: auto;
+        grid-gap: 2rem;
+        padding-left: 90px;
+    }
+    
+}
