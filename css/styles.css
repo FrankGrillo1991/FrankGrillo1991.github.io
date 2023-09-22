@@ -42,8 +42,6 @@ input[type=text], select, textarea {
     padding: 12px;
     margin-top: 6px;
     margin-bottom: 16px;
-    margin-left: 20px;
-    margin-right: 20px;
 }
 
 input[type=submit] {
