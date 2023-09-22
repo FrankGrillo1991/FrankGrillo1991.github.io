@@ -64,9 +64,12 @@ textarea {
 }
 
 @media (min-width: 320px) {
-    .grid-item {
+    .grid-container {
         display: grid;
-        grid-template-columns: 100%;
+        justify-content: center;
+        grid-template-columns: auto;
+        grid-gap: 2rem;
+        padding-left: 90px;
     }
     
 }
