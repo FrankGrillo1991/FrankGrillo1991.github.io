@@ -2,6 +2,10 @@ body {
     background-color: red;
 }
 
+.grid-container {
+    display: grid;
+}
+
 img {
     max-width: 25%;
 }
