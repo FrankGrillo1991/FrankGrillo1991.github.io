@@ -40,3 +40,7 @@ input[type=text], select, textarea {
 input[type=submit] {
     padding: 12px 20px;
 }
+
+textarea {
+    margin-bottom: auto;
+}
