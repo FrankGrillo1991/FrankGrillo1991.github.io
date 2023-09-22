@@ -7,7 +7,7 @@ body {
     justify-content: center;
     grid-template-columns: auto auto auto;
     grid-gap: 2rem;
-    padding-left: 20px;
+    padding-left: 80px;
 }
 
 img {
